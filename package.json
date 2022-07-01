@@ -1,0 +1,27 @@
+{
+  "name": "ethereum-101-gorotzcoin-cadena.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikelCalvo/Ethereum-101-Shitcoin-Cadena.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikelCalvo/Ethereum-101-Shitcoin-Cadena.dev/issues"
+  },
+  "homepage": "https://github.com/MikelCalvo/Ethereum-101-Shitcoin-Cadena.dev#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
