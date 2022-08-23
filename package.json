@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/MikelCalvo/Ethereum-101-Shitcoin-Cadena.dev#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.0",
+    "@openzeppelin/contracts": "^4.7.3",
     "dotenv": "^16.0.1",
     "glob": "^7.2.0"
   },
